@@ -1,3 +1,1 @@
-DGM1600
-
-Is this thing on?
+Okay the thing is working. I'm Michael and this is my git local. I am not an interesting person.
